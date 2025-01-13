@@ -6,6 +6,8 @@ Lexus’s Weekly Journal!
 
 ## ***September***
 
+![download](https://github.com/user-attachments/assets/058023b7-d2ce-4016-8d13-a8a64f8a7d69)
+
 **Week 1**
 
 First week of school! So for this week we learned about computers and what it is. We learned that it is a general purpose device because it is able to run multiple programs at once. And during this week we made an analogy of how a computer works! I decided to pair up with my buddy Anthony and we chose to do the analogy by drawing the steps on building a lego set. I think it was a very fun assignment and it definitely helped me with understanding how an analogy works.
@@ -23,7 +25,19 @@ Alright so for this week, me and my classmates were assigned with the fizzbuzz c
 So for this week we went back to our bouncing ball game and instead of it just bouncing off the wall, we made a new shape which is a rectangle to act as a paddle and now we have to make the ball bounce off of the paddle. I think this was a pretty fun challenge to do with my other classmates because we were able to find different ways to make the ball bounce off of our own paddles.
 
 
+
+
+
+
+
+
+
+
+
 ## ***October***
+
+![download](https://github.com/user-attachments/assets/16782a58-081a-41dc-8e5e-a846c488aa78)
+
 
 **Week 1**
 
@@ -48,7 +62,21 @@ We’re doing some more coding and we have now been assigned to make our very ow
 
 Me and my partners, Deondre and Emilio worked on the design in figma and we came up with the idea of using a cannonball as the ball and a shield as the paddle. So there would be a player who’s gonna look like a blob and then cannons on all sides shooting a cannon ball at it. 
 
+
+
+
+
+
+
+
+
+
+
 ## ***November***
+
+![download](https://github.com/user-attachments/assets/a2984246-6da2-435a-99e1-9f21383d112d)
+
+
 
 **Week 1**
 
@@ -66,9 +94,23 @@ More pong codingggggg, I got the cannons in place and got the cannonballs to sho
 
 **Week 4**
 
-Pong game had to be submitted but it wasn’t finished. We would have finished the game if we were able to do the harder calculations first and work together more properly. And also do it at home..
+Our pong game had to be submitted but it wasn’t finished. We would have finished the game if we were able to do the harder calculations and tasks first and communicate to each other more properly. And also if we worked on it at home.. Anyways, for this week we talked about cyber security again and this time we learned that stuff that you post on the internet CANNOT be removed. It will always stay there, the only way for the upload to be removed is with the use of a ledger by adding a change to it.
+
+
+
+
+
+
+
+
+
+
 
 ## ***December***
+
+![download](https://github.com/user-attachments/assets/df15df5b-1ea9-4a4a-b0e7-8c5b70a1b922)
+
+
 
 **Week 1**
 
