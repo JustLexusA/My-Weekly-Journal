@@ -4,7 +4,7 @@ My Computer Science Weekly Journal but instead it's in a markdown text file!
 Lexus’s Weekly Journal!
 
 
-### ***September***
+## ***September***
 
 **Week 1**
 
@@ -23,7 +23,7 @@ Alright so for this week, me and my classmates were assigned with the fizzbuzz c
 So for this week we went back to our bouncing ball game and instead of it just bouncing off the wall, we made a new shape which is a rectangle to act as a paddle and now we have to make the ball bounce off of the paddle. I think this was a pretty fun challenge to do with my other classmates because we were able to find different ways to make the ball bounce off of our own paddles.
 
 
-### ***October***
+## ***October***
 
 **Week 1**
 
@@ -48,7 +48,7 @@ We’re doing some more coding and we have now been assigned to make our very ow
 
 Me and my partners, Deondre and Emilio worked on the design in figma and we came up with the idea of using a cannonball as the ball and a shield as the paddle. So there would be a player who’s gonna look like a blob and then cannons on all sides shooting a cannon ball at it. 
 
-### ***November***
+## ***November***
 
 **Week 1**
 
@@ -68,7 +68,7 @@ More pong codingggggg, I got the cannons in place and got the cannonballs to sho
 
 Pong game had to be submitted but it wasn’t finished. We would have finished the game if we were able to do the harder calculations first and work together more properly. And also do it at home..
 
-### ***December***
+## ***December***
 
 **Week 1**
 
